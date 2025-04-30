@@ -2,7 +2,7 @@
 # 🚀 **Azure Data Engineering Pipeline**  
 
 
-![image](https://github.com/user-attachments/assets/a5339f5c-3210-4449-a3a9-a3482c933d13)
+![image](https://github.com/user-attachments/assets/9988c7a9-1c4b-4020-89bc-31d50474e52c)
 
 
 ## **Overview**  
